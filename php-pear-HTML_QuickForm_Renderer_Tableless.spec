@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.6.2
-Release:	1
+Release:	2
 Summary:	Replacement for the default renderer
 License:	PHP License
 Group:		Development/PHP
